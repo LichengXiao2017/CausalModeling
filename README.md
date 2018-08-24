@@ -16,9 +16,9 @@ The logic of the main program was explained in ./model/model.java, with comments
 # Authors and Citations
 Authors of the program and corresponding paper are as following:
 
-> Abel, Suchitra  sabel@scu.edu
-> Xiao, Licheng   lxiao@scu.edu
-> Wang, Hairong   hwang1@scu.edu
+> Abel, Suchitra  sabel@scu.edu \n
+> Xiao, Licheng   lxiao@scu.edu \n
+> Wang, Hairong   hwang1@scu.edu \n
 
 If you want to use the code in your research or wish to refer to the examples, please cite with:
 ```
