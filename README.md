@@ -4,8 +4,8 @@ This is a Java program using causal modeling in cyber security context to genera
 
 # Requirements
 
-Java 8  
-Eclipse
+- Java 8  
+- Eclipse
 
 # How to run the model
 
