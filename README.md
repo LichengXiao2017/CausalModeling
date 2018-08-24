@@ -20,7 +20,7 @@ Abel, Suchitra  sabel@scu.edu
 Xiao, Licheng   lxiao@scu.edu
 Wang, Hairong   hwang1@scu.edu
 ```
-If you want to use the code, please cite with:
+If you want to use the code in your research or wish to refer to the examples, please cite with:
 ```
 @misc{Detectron2018,
   author =       {Abel Suchitra and Xiao Licheng and Wang Hairong},
