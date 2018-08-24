@@ -4,22 +4,20 @@ This is a Java program using causal modeling in cyber security context to genera
 
 # Requirements
 
-Java 8
+Java 8  
 Eclipse
 
 # How to run the model
 
-./model/test.java can be tested in IDE such as Eclipse. You may modify the four parameters as you wish, and check the print information on the console.
+./model/test.java can be tested in IDE such as Eclipse. You may modify the four parameters as you wish, and check the print information on the console.  
 
 The logic of the main program was explained in ./model/model.java, with comments before each coding block.
 
 # Authors and Citations
-Authors of the program and corresponding paper are as following:
-
+Authors of the program and corresponding paper are as following:  
 > Abel, Suchitra  sabel@scu.edu  
 > Xiao, Licheng   lxiao@scu.edu  
 > Wang, Hairong   hwang1@scu.edu  
-
 If you want to use the code in your research or wish to refer to the examples, please cite with:
 ```
 @misc{Detectron2018,
