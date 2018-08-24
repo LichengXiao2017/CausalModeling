@@ -11,7 +11,7 @@ This is a Java program using causal modeling in cyber security context to genera
 
 The logic of the main program was explained in ./model/model.java, with comments before each coding block.  
   
-You may also test ./model/test.java in IDE such as Eclipse. You may modify the four parameters as you wish, and check the print information on the console.  
+The logic can be tested by running ./model/test.java in IDE such as Eclipse. You may modify the four parameters as you wish, and check the print information on the console.  
 
 # Authors and Citations
 Authors of the program and corresponding paper are as following:  
