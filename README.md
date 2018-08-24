@@ -13,7 +13,7 @@ The logic of the main program was explained in ./model/model.java, with comments
   
 The logic can be tested by running ./model/test.java in IDE such as Eclipse. You may modify the four parameters as you wish, and check the print information on the console.  
 
-# Authors and Citations
+# Authors and citations
 Authors of the program and corresponding paper are as following:  
 
 > Abel, Suchitra  sabel@scu.edu  
