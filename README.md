@@ -15,10 +15,11 @@ The logic of the main program was explained in ./model/model.java, with comments
 
 # Authors and Citations
 Authors of the program and corresponding paper are as following:
+```
 Abel, Suchitra  sabel@scu.edu
 Xiao, Licheng   lxiao@scu.edu
 Wang, Hairong   hwang1@scu.edu
-
+```
 If you want to use the code, please cite with:
 ```
 @misc{Detectron2018,
