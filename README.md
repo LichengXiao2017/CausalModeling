@@ -15,11 +15,11 @@ Xiao, Licheng   lxiao@scu.edu
 Wang, Hairong   hwang1@scu.edu
 
 If you want to use the code, please include the citation infomation as following:
-'''
+```
 @misc{Detectron2018,
   author =       {Abel Suchitra and Xiao Licheng and Wang Hairong},
   title =        {CausalModeling},
   howpublished = {\url{https://github.com/LichengXiao2017/CausalModeling/edit/master/README.md}},
   year =         {2018}
 }
-'''
+```
